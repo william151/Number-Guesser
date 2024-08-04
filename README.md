@@ -15,14 +15,4 @@ Welcome to the Number Guessing Game! This is a simple command-line game where yo
 
 - Python 3.x
 
-## Example
-Welcome to my number guessing game!
-Guess a number between 1 and 200: 50
-Your guess is too low!
-You have 9 attempts remaining.
-Guess a number between 1 and 200: 150
-Your guess is too high!
-You have 8 attempts remaining.
-Guess a number between 1 and 200: 100
-Congratulations! You guessed the number in 3 attempts.
 
